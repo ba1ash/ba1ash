@@ -6,6 +6,6 @@
 - https://razam.de/
 - https://kalinouski.org/
 
-### Supprot Ukraine
+### Support Ukraine
 - https://war.ukraine.ua/
 - https://war.ukraine.ua/donate/
