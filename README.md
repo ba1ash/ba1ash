@@ -4,7 +4,6 @@
 - https://tsikhanouskaya.org/
 - https://www.belarus-nau.org/
 - https://razam.de/
-- https://kalinouski.org/
 
 ### Support Ukraine
 - https://war.ukraine.ua/
